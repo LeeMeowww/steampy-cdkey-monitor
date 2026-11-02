@@ -1,0 +1,8 @@
+.env*
+*.log
+*token*
+*请勿分享*
+.wrangler/
+.local/
+work/
+node_modules/
